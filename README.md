@@ -1,1 +1,1 @@
-All answers are below in every code.
+All outputs are below in every code.
